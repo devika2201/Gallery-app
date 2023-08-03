@@ -1,0 +1,21 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-content {
+  height: 55vh;
+  width: 60vw;
+}
+
+.list-thumbnails {
+  display: flex;
+  flex-direction: row;
+}
